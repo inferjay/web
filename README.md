@@ -1,4 +1,4 @@
 The website for PingBook
 
-www.pingbook.com
+www.pingbook.org
 
